@@ -1,10 +1,3 @@
-# import googletrans 
-# from googletrans import Translator
-# # print(googletrans.LANGUAGES)
-# t = Translator()
-# a = t.translate("em dep qua" ,src="vi", dest="en")
-# print(a.text)
-
 from tkinter import *
 from PIL import Image,ImageTk
 from googletrans import Translator
